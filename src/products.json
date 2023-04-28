@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "title":"Bilgisayar",
+        "price":11000,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWq3sP-Bo7hrnZRx0Y-5KNXSS0xy8mmEFIg&usqp=CAU"
+    },
+    {
+        "id":2,
+        "title":"Ayakkabı",
+        "price":1000,
+        "image":"https://cdn.akakce.com/z/camper/camper-beetle-erkek.jpg"
+    },
+    {
+        "id":3,
+        "title":"Araba",
+        "price":950000,
+        "image":"https://abload.de/img/bmw_nisanboard.png2z8s1c.png"
+    },
+    {
+        "id":4,
+        "title":"Yazılım Kursu",
+        "price":20000,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZnwQ1XmgyZJQiai5Lluija19zVNtv4ZoRBQ&usqp=CAU"
+    },
+    {
+        "id":5,
+        "title":"Uçak",
+        "price":10000000,
+        "image":"https://science4fun.info/wp-content/uploads/2016/12/airplane-invention.jpg"
+    },
+    {
+        "id":6,
+        "title":"Ekmek",
+        "price":10,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ65pYav3n4liTZ8w1tz1xdUlFDkdh3RK309g&usqp=CAU"
+    }
+    
+]
